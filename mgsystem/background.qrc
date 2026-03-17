@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alies="background.jpg">D:/mgsystem/image/jpg.jpg</file>
+    </qresource>
+</RCC>
